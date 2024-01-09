@@ -70,7 +70,7 @@ async def fallen_st(_, message: Message):
                         [
                             InlineKeyboardButton(text="يوتيوب", url=link),
                             InlineKeyboardButton(
-                                text="كࢪوب الدعم", url=config.SUPPORT_CHAT
+                                text="قناة الدعم", url=config.SUPPORT_CHAT
                             ),
                         ],
                     ]
